@@ -1,1 +1,2 @@
-# Rock-Paper-Scissors-Game
+# Stone-Paper-Scissors-Game
+A Fun Game:) ;
